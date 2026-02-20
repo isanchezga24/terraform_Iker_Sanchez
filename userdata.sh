@@ -1,5 +1,4 @@
 #!/bin/bash
-# 1. Actualización e instalación de paquetes [cite: 101, 102-115]
 apt update
 apt install -y apache2 \
                  ghostscript \
